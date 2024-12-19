@@ -2,7 +2,8 @@
 
 A study about the relationship of nightclubs to crime in CABA was made. It was found that using a K-means cluster
 and two datasets from the open database of the city, one can isolate clusters of crime which happen on the same
-blocks as nightclubs. This explains the majority of crimes commited in the relevant time-frame.
+blocks as nightclubs. This explains the majority of crimes commited in the relevant time-frame while showing a clear transition
+in the distribution of crimes compared to day-time.
 
 ![clustering_animation (4)](https://github.com/user-attachments/assets/6ef03200-85b2-4f38-bd15-d7cec8d1c0f8)
 ![Cluster final](https://github.com/user-attachments/assets/390499a8-6ba8-491f-9186-3a7c49902d06)
